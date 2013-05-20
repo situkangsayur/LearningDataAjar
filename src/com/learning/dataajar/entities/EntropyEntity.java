@@ -4,6 +4,7 @@
  */
 package com.learning.dataajar.entities;
 
+import com.learning.dataajar.services.InputFileService;
 import java.util.List;
 
 /**
@@ -105,6 +106,7 @@ public class EntropyEntity {
         hitung += "= " +temp;
         entropy = temp;
         System.out.println(hitung);
+        InputFileService.getList().add(hitung+"\n");
 
     }
 }

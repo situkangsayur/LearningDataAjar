@@ -15,6 +15,7 @@ import com.learning.dataajar.model.GainsModel2;
 import com.learning.dataajar.services.Attribute;
 import com.learning.dataajar.services.Database;
 import com.learning.dataajar.services.HelpAttribute;
+import com.learning.dataajar.services.InputFileService;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.util.ArrayList;
@@ -65,9 +66,13 @@ public class LearningDataAjar {
 
         int possible = 1;
         int pos = 0;
+        List<String> list = new ArrayList<String>();
+        InputFileService.setList(list);
 
         while ((HelpAttribute.checkState() > 0) && (possible != 0)) {
-            System.out.println("iterasi : " + pos++);
+//            System.out.println("iterasi : " + pos++);
+            try{
+            InputFileService.getList().add("iterasi : " + (pos++) +"\n");
             model = new EntropyModel();
             modelGains = new GainsModel2();
             System.out.println("iterasi : " + pos++);
@@ -87,7 +92,7 @@ public class LearningDataAjar {
 
                 mainNode.setQueryNode(queryString);
                 for (Datanilai data : mainDataSet) {
-                    System.out.println(" -- " + data.getNim() + "--"
+                    String result = " -- " + data.getNim() + "--"
                             + data.getNama()
                             + "--"
                             + data.getNilai1()
@@ -109,15 +114,20 @@ public class LearningDataAjar {
                             + data.getNilai16() + "--"
                             + data.getNilai17() + "--"
                             + data.getNilai18() + "--"
-                            + data.getIsLulusTepatWaktu());
+                            + data.getIsLulusTepatWaktu();
+                    System.out.println(result);
+                    InputFileService.getList().add(result+"\n");
                 }
 
 
             } else {
                 if (mainNode.getNode() == null) {
                     System.out.println("=============================================================");
+                    InputFileService.getList().add("=============================================================\n");
                     System.out.println(" level = " + mainNode.getDeepLevel());
+                    InputFileService.getList().add(" level = " + mainNode.getDeepLevel()+"\n");
                     System.out.println("=============================================================");
+                    InputFileService.getList().add("=============================================================\n");
                     String parentValue = mainNode.getEntropyParent().getValueName();
                     Integer numField = mainNode.getParentNode().getNumField();
                     String parentField = HelpAttribute.getAtribut().get(numField).getAttribute();
@@ -183,7 +193,7 @@ public class LearningDataAjar {
 
 
                     for (Datanilai data : mainDataSet) {
-                        System.out.println(" -- " + data.getNim() + "--"
+                        String result = " -- " + data.getNim() + "--"
                                 + data.getNama()
                                 + "--"
                                 + data.getNilai1()
@@ -205,7 +215,9 @@ public class LearningDataAjar {
                                 + data.getNilai16() + "--"
                                 + data.getNilai17() + "--"
                                 + data.getNilai18() + "--"
-                                + data.getIsLulusTepatWaktu());
+                                + data.getIsLulusTepatWaktu();
+                        System.out.println(result);
+                        InputFileService.getList().add(result+"\n");
                     }
                 }
 
@@ -214,6 +226,7 @@ public class LearningDataAjar {
             ///run main logic
             if (mainNode.getNode() == null) {
                 System.out.println("");
+                InputFileService.getList().add("\n");
 
                 modelGains.setParentEntropy(parent);
                 //   modelGains.setTargetEntropy(allEnt);
@@ -222,14 +235,19 @@ public class LearningDataAjar {
 
                 for (GainsEntity data : modelGains.getGains()) {
                     System.out.println("--------->> gain => " + HelpAttribute.getAtribut().get(data.getNumField()).getAttribute() + " : " + data.getGains());
+                    InputFileService.getList().add("--------->> gain => " + HelpAttribute.getAtribut().get(data.getNumField()).getAttribute() + " : " + data.getGains()+"\n");
+                    
                 }
 
                 GainsEntity biggestGains = modelGains.biggestValue();
 
                 System.out.println("------------>>>biggest gains : " + HelpAttribute.getAtribut().get(modelGains.biggestValue().getNumField()).getAttribute()
                         + " with gains = " + biggestGains.getGains());
+                InputFileService.getList().add("------------>>>biggest gains : " + HelpAttribute.getAtribut().get(modelGains.biggestValue().getNumField()).getAttribute()
+                        + " with gains = " + biggestGains.getGains()+"\n");
 
                 System.out.println("hasil dari biggest val : " + modelGains.biggestValue().getNumField());
+                InputFileService.getList().add("hasil dari biggest val : " + modelGains.biggestValue().getNumField()+"\n");
 
                 mainNode.setNumField(modelGains.biggestValue().getNumField());
 
@@ -316,6 +334,7 @@ public class LearningDataAjar {
 
                     if (iterator < (mainNode.getNode().size() - 1)) {
                         System.out.println("next");
+                        InputFileService.getList().add("next\n");
                         possible--;
                         continue;
                     }
@@ -328,17 +347,27 @@ public class LearningDataAjar {
 
             if (!doneCon) {
                 System.out.println("forward");
+                InputFileService.getList().add("forward\n");
                 mainNode = mainNode.getNode().get(iterator);
 
             } else {
                 System.out.println("backward");
+                InputFileService.getList().add("backward\n");
 
                 mainNode = mainNode.getParentNode();
                 //System.out.println(HelpAttribute.getAtribut().get(mainNode.getNumField()).getAttribute());
             }
             // Stringtok
             System.out.println("end");
+            InputFileService.getList().add("end\n");
             step++;
+            }catch(Exception e){
+                e.printStackTrace();
+                break;
+            }finally{
+                InputFileService.printToFile("TreeResult.txt", InputFileService.getList());
+            }
         }
+        InputFileService.printToFile("TreeResult.txt", InputFileService.getList());
     }
 }

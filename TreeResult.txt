@@ -1,0 +1,1185 @@
+iterasi : 0
+ entropy = (-(81/99)* 2Lo(81/99)) +(-(18/99)* 2Lo(18/99)) = 0.68403846
+ -- 10103129--NANA SUPRIATNA--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10104160--DICKY EKO SUSILO--Sedang--Sedang--Sedang--Rendah--Rendah--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Sedang--Rendah--Rendah--Rendah--Sedang--Sedang--Tinggi--NO
+ -- 10104200--ANDRIYANO RAFERINO BARRY P--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10104324--ASEP JAMALUDIN--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--NO
+ -- 10104411--EVI APRIANTI DIARSA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Sedang--Tinggi--Sedang--NO
+ -- 10104441--DADANG KURNIAWAN--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Sedang--Rendah--Sedang--Sedang--Sedang--Sedang--Tinggi--NO
+ -- 10105002--TINTIN KRISTINA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105036--FAHD--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--NO
+ -- 10105089--M. RESLIANSYAH PRATAMA--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Rendah--Sedang--Tinggi--Tinggi--Sedang--Sedang--Tinggi--NO
+ -- 10105117--MINGGUS FREDDY TAMBUNAN--Tinggi--Tinggi--Sedang--Sedang--Rendah--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Rendah--Tinggi--Sedang--Sedang--Tinggi--NO
+ -- 10105120--ADE JAMALUDIN--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Rendah--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105138--RUDI INDRA PUTRANTO--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105145--ANGGA GINANJAR. M--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105162--DEA DIKI HAMDAN--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--NO
+ -- 10105167--SATRIA AJI PRATAMA--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--NO
+ -- 10105201--HARI SUHARIMAN--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Rendah--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105212--REDI SETIABUDI--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105242--TISNO ISWANTONO--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105244--ADE RUSMAWAN--Tinggi--Tinggi--Rendah--Sedang--Rendah--Sedang--Sedang--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105832--IAN PERMANA HIDAYAT--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105856--DAVIT SETIAWAN--Tinggi--Tinggi--Tinggi--Sedang--Rendah--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106004--HENDRA BUDIAWAN--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106010--PURWANGGA B. HERDAYANDI--Sedang--Tinggi--Sedang--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--NO
+ -- 10106029--DONIS MAULANA PUGAR--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106030--RIZQI ADHYATMA--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--NO
+ -- 10106034--LENI SULASTRI--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Rendah--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--NO
+ -- 10106035--ADITYA YUDHA  PRADHANA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106036--DIMAS IRAWAN--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106048--JAKA ADI SWARA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106051--MOCHAMAD FAJAR SUADA--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Sedang--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106059--ASRI INDAH LESTARI N--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Sedang--NO
+ -- 10106064--ANGGA NURMAULANA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106075--FAKHRIYYATUL  AZHAR--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106084--FAJAR NURAKHMAN--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106085--WIDA WIDYAWATI--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106086--CHANDRA NORMANSYAH PUTRA--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106090--WAHYU SETIA--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--NO
+ -- 10106093--ERIKA SUSILO--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106101--GIGIN GINANJAR. N--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--NO
+ -- 10106103--ILMANI KAMILINA--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--YES
+ -- 10106117--FAUJI RIDWAN--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106119--GITA ROSSETI--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Rendah--Tinggi--Tinggi--Tinggi--YES
+ -- 10106120--ADI WIBOWO--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--NO
+ -- 10106121--NOVAN ADHITYA PUTRA--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106124--FEDICCA INDRAJEVI MAULANA--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Rendah--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106126--RIDWAN ARIFIN--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--NO
+ -- 10106137--GIANA--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--YES
+ -- 10106144--ANITA IMAWATI--Tinggi--Sedang--Sedang--Sedang--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--NO
+ -- 10106146--RULLY AGUSTA PRAUTAMA--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106147--NIANTI PRATIDINA DEWI--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106151--BUDI GUTAMA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106155--FERDY YUSUF DJOENJOENAN--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106157--MELIA WULAN SARI--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--NO
+ -- 10106158--RANGGA BENTAR RASPATI PUTRA--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--YES
+ -- 10106164--ARDHANI RESWARI--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106170--SOPYAN--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106174--KRIS NUR AKBAR--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Rendah--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106184--LUTFHI GHIFARI--Tinggi--Sedang--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106188--PUPUS MUSTIKA PURI--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106190--WIWIK WIDIYASANI--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106192--ARIS CAHYONO--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--NO
+ -- 10106193--YUDA PRAYOGA--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Rendah--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--YES
+ -- 10106204--DESI SURYANI--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106217--LISTYA KARTIKA SARI. T--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106243--FERDIAN BENNY UDYANA--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106248--IYAN WARDIANA--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--NO
+ -- 10106253--IRDAN NURZAMAN--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Rendah--Tinggi--Sedang--Tinggi--NO
+ -- 10106266--WINDU JANUAR .P--Tinggi--Sedang--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Rendah--Sedang--Tinggi--Tinggi--Tinggi--NO
+ -- 10106274--DIDI MULYADI--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106281--RISA HERDIANA--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Rendah--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106282--YOL ANABRANG .P--Tinggi--Sedang--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--NO
+ -- 10106304--ARIM WIJAYA--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--NO
+ -- 10106312--RIA BADRIYANI--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--NO
+ -- 10106316--QASTHALANI--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--NO
+ -- 10106322--FAZLUR AKBAR--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106327--IWAN SETIAWAN--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--NO
+ -- 10106328--MUKHYAR FANDY APRIANUR--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--NO
+ -- 10106330--ABDUL RAHMAN--Tinggi--Sedang--Sedang--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--NO
+ -- 10106341--MARSHALL--Tinggi--Sedang--Tinggi--Sedang--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Rendah--Sedang--Sedang--Rendah--Sedang--Tinggi--Sedang--Tinggi--NO
+ -- 10106379--DEDE MUHIDIN--Tinggi--Sedang--Sedang--Rendah--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Rendah--Rendah--Rendah--Sedang--Tinggi--Tinggi--Tinggi--NO
+ -- 10106390--NOVIE HARI PURNOMO--Tinggi--Tinggi--Sedang--Tinggi--Rendah--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--NO
+ -- 10106403--WARMAN SUGANDA--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106407--DEWI NURUL R--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106408--ROCHMAD YULIAWAN--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--NO
+ -- 10106420--ARIES AFRIANDAYANI--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--NO
+ -- 10106422--SISFIKA YANTI SILALAHI--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106436--AGUNG YUDHISTIRA--Tinggi--Tinggi--Tinggi--Tinggi--Rendah--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Sedang--Tinggi--Sedang--Sedang--NO
+ -- 10106444--GINANJAR--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106456--CAHYADI SYUKRON HALIM--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Sedang--NO
+ -- 10106460--QODRAT ILAHI--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Tinggi--NO
+ -- 10106487--SUNARYA--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Sedang--Sedang--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--NO
+ -- 10106707--NATALINA  AGRIMAY. S--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--NO
+ -- 10107702--HENRI PRATAMA R--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10107844--DEFFI ROSDIANA SARI--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10107859--SRI NURHAYATI--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10107863--FAHRU RAMDAN--Sedang--Tinggi--Tinggi--Rendah--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Rendah--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10108973--IHSAN NURDIANSYAH--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10108987--JIMMY BUNARDI--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--NO
+ -- 10109761--MUH KHAIRUL AZAMI--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--YES
+
+ entropy = (-(75/92)* 2Lo(75/92)) +(-(17/92)* 2Lo(17/92)) = 0.6904286
+ entropy = (-(6/7)* 2Lo(6/7)) +(-(1/7)* 2Lo(1/7)) = 0.5916728
+ gains = 0.68403846-((92/99.00.9292929*0.6904286) - (7/99.00.07070707*0.5916728)) =5.925894E-4
+ entropy = (-(62/79)* 2Lo(62/79)) +(-(17/79)* 2Lo(17/79)) = 0.75128657
+ entropy = (-(19/20)* 2Lo(19/20)) +(-(1/20)* 2Lo(1/20)) = 0.28639698
+ gains = 0.68403846-((79/99.00.7979798*0.75128657) - (20/99.00.2020202*0.28639698)) =0.026668966
+ entropy = (-(48/57)* 2Lo(48/57)) +(-(9/57)* 2Lo(9/57)) = 0.6292492
+ entropy = (-(32/41)* 2Lo(32/41)) +(-(9/41)* 2Lo(9/41)) = 0.7592758
+ entropy = (-(1/1)* 2Lo(1/1)) +0.0= 0.0
+ gains = 0.68403846-((57/99.00.57575756*0.6292492) - (41/99.00.41414142*0.7592758) - (1/99.00.01010101*0.0)) =0.0072959065
+ entropy = (-(38/43)* 2Lo(38/43)) +(-(5/43)* 2Lo(5/43)) = 0.5185697
+ entropy = (-(3/3)* 2Lo(3/3)) +0.0= 0.0
+ entropy = (-(40/53)* 2Lo(40/53)) +(-(13/53)* 2Lo(13/53)) = 0.80371594
+ gains = 0.68403846-((43/99.00.43434343*0.5185697) - (3/99.00.030303031*0.0) - (53/99.00.53535354*0.80371594)) =0.028528929
+ entropy = (-(35/40)* 2Lo(35/40)) +(-(5/40)* 2Lo(5/40)) = 0.54356444
+ entropy = (-(6/6)* 2Lo(6/6)) +0.0= 0.0
+ entropy = (-(40/53)* 2Lo(40/53)) +(-(13/53)* 2Lo(13/53)) = 0.80371594
+ gains = 0.68403846-((40/99.00.4040404*0.54356444) - (6/99.00.060606062*0.0) - (53/99.00.53535354*0.80371594)) =0.034144282
+ entropy = (-(49/58)* 2Lo(49/58)) +(-(9/58)* 2Lo(9/58)) = 0.6226343
+ entropy = (-(32/41)* 2Lo(32/41)) +(-(9/41)* 2Lo(9/41)) = 0.7592758
+ gains = 0.68403846-((58/99.00.5858586*0.6226343) - (41/99.00.41414142*0.7592758)) =0.0048152804
+ entropy = (-(47/56)* 2Lo(47/56)) +(-(9/56)* 2Lo(9/56)) = 0.6360156
+ entropy = (-(34/43)* 2Lo(34/43)) +(-(9/43)* 2Lo(9/43)) = 0.740147
+ gains = 0.68403846-((56/99.00.56565654*0.6360156) - (43/99.00.43434343*0.740147)) =0.002794087
+ entropy = (-(62/79)* 2Lo(62/79)) +(-(17/79)* 2Lo(17/79)) = 0.75128657
+ entropy = (-(19/20)* 2Lo(19/20)) +(-(1/20)* 2Lo(1/20)) = 0.28639698
+ gains = 0.68403846-((79/99.00.7979798*0.75128657) - (20/99.00.2020202*0.28639698)) =0.026668966
+ entropy = (-(11/12)* 2Lo(11/12)) +(-(1/12)* 2Lo(1/12)) = 0.41381684
+ entropy = (-(70/87)* 2Lo(70/87)) +(-(17/87)* 2Lo(17/87)) = 0.7126368
+ gains = 0.68403846-((12/99.00.121212125*0.41381684) - (87/99.00.8787879*0.7126368)) =0.007622242
+ entropy = (-(71/87)* 2Lo(71/87)) +(-(16/87)* 2Lo(16/87)) = 0.68855214
+ entropy = (-(9/11)* 2Lo(9/11)) +(-(2/11)* 2Lo(2/11)) = 0.68403846
+ entropy = (-(1/1)* 2Lo(1/1)) +0.0= 0.0
+ gains = 0.68403846-((87/99.00.8787879*0.68855214) - (11/99.00.11111111*0.68403846) - (1/99.00.01010101*0.0)) =0.0029429197
+ entropy = (-(27/34)* 2Lo(27/34)) +(-(7/34)* 2Lo(7/34)) = 0.733538
+ entropy = (-(53/64)* 2Lo(53/64)) +(-(11/64)* 2Lo(11/64)) = 0.6619761
+ entropy = (-(1/1)* 2Lo(1/1)) +0.0= 0.0
+ gains = 0.68403846-((34/99.00.34343433*0.733538) - (64/99.00.64646465*0.6619761) - (1/99.00.01010101*0.0)) =0.0041721463
+ entropy = (-(26/32)* 2Lo(26/32)) +(-(6/32)* 2Lo(6/32)) = 0.6962123
+ entropy = (-(49/60)* 2Lo(49/60)) +(-(11/60)* 2Lo(11/60)) = 0.6873151
+ entropy = (-(6/7)* 2Lo(6/7)) +(-(1/7)* 2Lo(1/7)) = 0.5916728
+ gains = 0.68403846-((32/99.00.32323232*0.6962123) - (60/99.00.6060606*0.6873151) - (7/99.00.07070707*0.5916728)) =6.1005354E-4
+ entropy = (-(28/35)* 2Lo(28/35)) +(-(7/35)* 2Lo(7/35)) = 0.7219281
+ entropy = (-(3/3)* 2Lo(3/3)) +0.0= 0.0
+ entropy = (-(50/61)* 2Lo(50/61)) +(-(11/61)* 2Lo(11/61)) = 0.68079376
+ gains = 0.68403846-((35/99.00.35353535*0.7219281) - (3/99.00.030303031*0.0) - (61/99.00.61616164*0.68079376)) =0.009332359
+ entropy = (-(29/33)* 2Lo(29/33)) +(-(4/33)* 2Lo(4/33)) = 0.53283507
+ entropy = (-(7/7)* 2Lo(7/7)) +0.0= 0.0
+ entropy = (-(45/59)* 2Lo(45/59)) +(-(14/59)* 2Lo(14/59)) = 0.79050136
+ gains = 0.68403846-((33/99.00.33333334*0.53283507) - (7/99.00.07070707*0.0) - (59/99.00.5959596*0.79050136)) =0.035319865
+ entropy = (-(54/70)* 2Lo(54/70)) +(-(16/70)* 2Lo(16/70)) = 0.77551264
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ entropy = (-(25/26)* 2Lo(25/26)) +(-(1/26)* 2Lo(1/26)) = 0.23519343
+ gains = 0.68403846-((70/99.00.7070707*0.77551264) - (3/99.00.030303031*0.91829586) - (26/99.00.26262626*0.23519343)) =0.046101034
+ entropy = (-(72/90)* 2Lo(72/90)) +(-(18/90)* 2Lo(18/90)) = 0.7219281
+ entropy = (-(9/9)* 2Lo(9/9)) +0.0= 0.0
+ gains = 0.68403846-((90/99.00.90909094*0.7219281) - (9/99.00.09090909*0.0)) =0.02774012
+ entropy = (-(62/76)* 2Lo(62/76)) +(-(14/76)* 2Lo(14/76)) = 0.68920195
+ entropy = (-(19/23)* 2Lo(19/23)) +(-(4/23)* 2Lo(4/23)) = 0.6665784
+ gains = 0.68403846-((76/99.00.7676768*0.68920195) - (23/99.00.23232323*0.6665784)) =9.250641E-5
+ entropy = (-(74/91)* 2Lo(74/91)) +(-(17/91)* 2Lo(17/91)) = 0.6947571
+ entropy = (-(7/8)* 2Lo(7/8)) +(-(1/8)* 2Lo(1/8)) = 0.54356444
+ gains = 0.68403846-((91/99.00.9191919*0.6947571) - (8/99.00.08080808*0.54356444)) =0.0014989972
+--------->> gain => NILAI_1 : 5.925894E-4
+--------->> gain => NILAI_2 : 0.026668966
+--------->> gain => NILAI_3 : 0.0072959065
+--------->> gain => NILAI_4 : 0.028528929
+--------->> gain => NILAI_5 : 0.034144282
+--------->> gain => NILAI_6 : 0.0048152804
+--------->> gain => NILAI_7 : 0.002794087
+--------->> gain => NILAI_8 : 0.026668966
+--------->> gain => NILAI_9 : 0.007622242
+--------->> gain => NILAI_10 : 0.0029429197
+--------->> gain => NILAI_11 : 0.0041721463
+--------->> gain => NILAI_12 : 6.1005354E-4
+--------->> gain => NILAI_13 : 0.009332359
+--------->> gain => NILAI_14 : 0.035319865
+--------->> gain => NILAI_15 : 0.046101034
+--------->> gain => NILAI_16 : 0.02774012
+--------->> gain => NILAI_17 : 9.250641E-5
+--------->> gain => NILAI_18 : 0.0014989972
+------------>>>biggest gains : NILAI_15 with gains = 0.046101034
+hasil dari biggest val : 16
+forward
+end
+iterasi : 2
+=============================================================
+ level = 2
+=============================================================
+ entropy = (-(30/169)* 2Lo(30/169)) +(-(69/169)* 2Lo(69/169)) +(-(70/169)* 2Lo(70/169)) = 1.4970646
+ -- 10103129--NANA SUPRIATNA--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10104200--ANDRIYANO RAFERINO BARRY P--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10104324--ASEP JAMALUDIN--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--NO
+ -- 10104411--EVI APRIANTI DIARSA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Sedang--Tinggi--Sedang--NO
+ -- 10105002--TINTIN KRISTINA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105089--M. RESLIANSYAH PRATAMA--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Rendah--Sedang--Tinggi--Tinggi--Sedang--Sedang--Tinggi--NO
+ -- 10105117--MINGGUS FREDDY TAMBUNAN--Tinggi--Tinggi--Sedang--Sedang--Rendah--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Rendah--Tinggi--Sedang--Sedang--Tinggi--NO
+ -- 10105120--ADE JAMALUDIN--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Rendah--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105138--RUDI INDRA PUTRANTO--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105145--ANGGA GINANJAR. M--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105162--DEA DIKI HAMDAN--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--NO
+ -- 10105201--HARI SUHARIMAN--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Rendah--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105212--REDI SETIABUDI--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105242--TISNO ISWANTONO--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105244--ADE RUSMAWAN--Tinggi--Tinggi--Rendah--Sedang--Rendah--Sedang--Sedang--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105832--IAN PERMANA HIDAYAT--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105856--DAVIT SETIAWAN--Tinggi--Tinggi--Tinggi--Sedang--Rendah--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106004--HENDRA BUDIAWAN--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106010--PURWANGGA B. HERDAYANDI--Sedang--Tinggi--Sedang--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--NO
+ -- 10106029--DONIS MAULANA PUGAR--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106035--ADITYA YUDHA  PRADHANA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106036--DIMAS IRAWAN--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106048--JAKA ADI SWARA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106051--MOCHAMAD FAJAR SUADA--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Sedang--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106064--ANGGA NURMAULANA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106075--FAKHRIYYATUL  AZHAR--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106084--FAJAR NURAKHMAN--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106085--WIDA WIDYAWATI--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106086--CHANDRA NORMANSYAH PUTRA--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106093--ERIKA SUSILO--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106103--ILMANI KAMILINA--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--YES
+ -- 10106117--FAUJI RIDWAN--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106120--ADI WIBOWO--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--NO
+ -- 10106121--NOVAN ADHITYA PUTRA--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106124--FEDICCA INDRAJEVI MAULANA--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Rendah--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106137--GIANA--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--YES
+ -- 10106146--RULLY AGUSTA PRAUTAMA--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106147--NIANTI PRATIDINA DEWI--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106151--BUDI GUTAMA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106155--FERDY YUSUF DJOENJOENAN--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106157--MELIA WULAN SARI--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--NO
+ -- 10106164--ARDHANI RESWARI--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106170--SOPYAN--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106174--KRIS NUR AKBAR--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Rendah--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106184--LUTFHI GHIFARI--Tinggi--Sedang--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106188--PUPUS MUSTIKA PURI--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106190--WIWIK WIDIYASANI--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106193--YUDA PRAYOGA--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Rendah--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--YES
+ -- 10106204--DESI SURYANI--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106217--LISTYA KARTIKA SARI. T--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106243--FERDIAN BENNY UDYANA--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106248--IYAN WARDIANA--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--NO
+ -- 10106274--DIDI MULYADI--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106281--RISA HERDIANA--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Rendah--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106304--ARIM WIJAYA--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--NO
+ -- 10106322--FAZLUR AKBAR--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106330--ABDUL RAHMAN--Tinggi--Sedang--Sedang--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--NO
+ -- 10106403--WARMAN SUGANDA--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106407--DEWI NURUL R--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106422--SISFIKA YANTI SILALAHI--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106444--GINANJAR--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106460--QODRAT ILAHI--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Tinggi--NO
+ -- 10106707--NATALINA  AGRIMAY. S--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--NO
+ -- 10107702--HENRI PRATAMA R--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10107844--DEFFI ROSDIANA SARI--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10107859--SRI NURHAYATI--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10107863--FAHRU RAMDAN--Sedang--Tinggi--Tinggi--Rendah--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Rendah--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10108973--IHSAN NURDIANSYAH--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10108987--JIMMY BUNARDI--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--NO
+ -- 10109761--MUH KHAIRUL AZAMI--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--YES
+
+ entropy = (-(50/65)* 2Lo(50/65)) +(-(15/65)* 2Lo(15/65)) = 0.7793498
+ entropy = (-(4/5)* 2Lo(4/5)) +(-(1/5)* 2Lo(1/5)) = 0.7219281
+ gains = 1.4970646-((65/70.00.9285714*0.7793498) - (5/70.00.071428575*0.7219281)) =0.72181636
+ entropy = (-(44/59)* 2Lo(44/59)) +(-(15/59)* 2Lo(15/59)) = 0.8179253
+ entropy = (-(10/11)* 2Lo(10/11)) +(-(1/11)* 2Lo(1/11)) = 0.43949693
+ gains = 1.4970646-((59/70.00.8428571*0.8179253) - (11/70.00.15714286*0.43949693)) =0.7386067
+ entropy = (-(29/37)* 2Lo(29/37)) +(-(8/37)* 2Lo(8/37)) = 0.753198
+ entropy = (-(24/32)* 2Lo(24/32)) +(-(8/32)* 2Lo(8/32)) = 0.8112781
+ entropy = (-(1/1)* 2Lo(1/1)) +0.0= 0.0
+ gains = 1.4970646-((37/70.00.5285714*0.753198) - (32/70.00.45714286*0.8112781) - (1/70.00.014285714*0.0)) =0.7280756
+ entropy = (-(25/30)* 2Lo(25/30)) +(-(5/30)* 2Lo(5/30)) = 0.65002245
+ entropy = (-(28/39)* 2Lo(28/39)) +(-(11/39)* 2Lo(11/39)) = 0.85823077
+ entropy = (-(1/1)* 2Lo(1/1)) +0.0= 0.0
+ gains = 1.4970646-((30/70.00.42857143*0.65002245) - (39/70.00.55714285*0.85823077) - (1/70.00.014285714*0.0)) =0.7403264
+ entropy = (-(21/26)* 2Lo(21/26)) +(-(5/26)* 2Lo(5/26)) = 0.7062741
+ entropy = (-(30/41)* 2Lo(30/41)) +(-(11/41)* 2Lo(11/41)) = 0.83900404
+ entropy = (-(3/3)* 2Lo(3/3)) +0.0= 0.0
+ gains = 1.4970646-((26/70.00.37142858*0.7062741) - (41/70.00.5857143*0.83900404) - (3/70.00.042857144*0.0)) =0.7433176
+ entropy = (-(33/41)* 2Lo(33/41)) +(-(8/41)* 2Lo(8/41)) = 0.712064
+ entropy = (-(21/29)* 2Lo(21/29)) +(-(8/29)* 2Lo(8/29)) = 0.8497512
+ gains = 1.4970646-((41/70.00.5857143*0.712064) - (29/70.00.41428572*0.8497512)) =0.72795874
+ entropy = (-(34/42)* 2Lo(34/42)) +(-(8/42)* 2Lo(8/42)) = 0.70246655
+ entropy = (-(20/28)* 2Lo(20/28)) +(-(8/28)* 2Lo(8/28)) = 0.86312056
+ gains = 1.4970646-((42/70.00.6*0.70246655) - (28/70.00.4*0.86312056)) =0.7303364
+ entropy = (-(46/61)* 2Lo(46/61)) +(-(15/61)* 2Lo(15/61)) = 0.80471754
+ entropy = (-(8/9)* 2Lo(8/9)) +(-(1/9)* 2Lo(1/9)) = 0.50325835
+ gains = 1.4970646-((61/70.00.87142855*0.80471754) - (9/70.00.12857144*0.50325835)) =0.7311061
+ entropy = (-(8/9)* 2Lo(8/9)) +(-(1/9)* 2Lo(1/9)) = 0.50325835
+ entropy = (-(46/61)* 2Lo(46/61)) +(-(15/61)* 2Lo(15/61)) = 0.80471754
+ gains = 1.4970646-((9/70.00.12857144*0.50325835) - (61/70.00.87142855*0.80471754)) =0.7311061
+ entropy = (-(47/61)* 2Lo(47/61)) +(-(14/61)* 2Lo(14/61)) = 0.777153
+ entropy = (-(6/8)* 2Lo(6/8)) +(-(2/8)* 2Lo(2/8)) = 0.8112781
+ entropy = (-(1/1)* 2Lo(1/1)) +0.0= 0.0
+ gains = 1.4970646-((61/70.00.87142855*0.777153) - (8/70.00.114285715*0.8112781) - (1/70.00.014285714*0.0)) =0.7271137
+ entropy = (-(21/28)* 2Lo(21/28)) +(-(7/28)* 2Lo(7/28)) = 0.8112781
+ entropy = (-(33/42)* 2Lo(33/42)) +(-(9/42)* 2Lo(9/42)) = 0.7495953
+ gains = 1.4970646-((28/70.00.4*0.8112781) - (42/70.00.6*0.7495953)) =0.72279614
+ entropy = (-(22/27)* 2Lo(22/27)) +(-(5/27)* 2Lo(5/27)) = 0.69128984
+ entropy = (-(28/38)* 2Lo(28/38)) +(-(10/38)* 2Lo(10/38)) = 0.8314744
+ entropy = (-(4/5)* 2Lo(4/5)) +(-(1/5)* 2Lo(1/5)) = 0.7219281
+ gains = 1.4970646-((27/70.00.3857143*0.69128984) - (38/70.00.54285717*0.8314744) - (5/70.00.071428575*0.7219281)) =0.7274861
+ entropy = (-(21/27)* 2Lo(21/27)) +(-(6/27)* 2Lo(6/27)) = 0.7642045
+ entropy = (-(33/43)* 2Lo(33/43)) +(-(10/43)* 2Lo(10/43)) = 0.7824441
+ gains = 1.4970646-((27/70.00.3857143*0.7642045) - (43/70.00.6142857*0.7824441)) =0.7216557
+ entropy = (-(18/22)* 2Lo(18/22)) +(-(4/22)* 2Lo(4/22)) = 0.68403846
+ entropy = (-(33/45)* 2Lo(33/45)) +(-(12/45)* 2Lo(12/45)) = 0.8366407
+ entropy = (-(3/3)* 2Lo(3/3)) +0.0= 0.0
+ gains = 1.4970646-((22/70.00.31428573*0.68403846) - (45/70.00.64285713*0.8366407) - (3/70.00.042857144*0.0)) =0.74424064
+ entropy = (-(49/65)* 2Lo(49/65)) +(-(16/65)* 2Lo(16/65)) = 0.805125
+ entropy = (-(5/5)* 2Lo(5/5)) +0.0= 0.0
+ gains = 1.4970646-((65/70.00.9285714*0.805125) - (5/70.00.071428575*0.0)) =0.74944854
+ entropy = (-(45/58)* 2Lo(45/58)) +(-(13/58)* 2Lo(13/58)) = 0.76765156
+ entropy = (-(9/12)* 2Lo(9/12)) +(-(3/12)* 2Lo(3/12)) = 0.8112781
+ gains = 1.4970646-((58/70.00.82857144*0.76765156) - (12/70.00.17142858*0.8112781)) =0.7219342
+ entropy = (-(51/66)* 2Lo(51/66)) +(-(15/66)* 2Lo(15/66)) = 0.77322674
+ entropy = (-(3/4)* 2Lo(3/4)) +(-(1/4)* 2Lo(1/4)) = 0.8112781
+ gains = 1.4970646-((66/70.00.94285715*0.77322674) - (4/70.00.057142857*0.8112781)) =0.7216635
+--------->> gain => NILAI_1 : 0.72181636
+--------->> gain => NILAI_2 : 0.7386067
+--------->> gain => NILAI_3 : 0.7280756
+--------->> gain => NILAI_4 : 0.7403264
+--------->> gain => NILAI_5 : 0.7433176
+--------->> gain => NILAI_6 : 0.72795874
+--------->> gain => NILAI_7 : 0.7303364
+--------->> gain => NILAI_8 : 0.7311061
+--------->> gain => NILAI_9 : 0.7311061
+--------->> gain => NILAI_10 : 0.7271137
+--------->> gain => NILAI_11 : 0.72279614
+--------->> gain => NILAI_12 : 0.7274861
+--------->> gain => NILAI_13 : 0.7216557
+--------->> gain => NILAI_14 : 0.74424064
+--------->> gain => NILAI_16 : 0.74944854
+--------->> gain => NILAI_17 : 0.7219342
+--------->> gain => NILAI_18 : 0.7216635
+------------>>>biggest gains : NILAI_16 with gains = 0.74944854
+hasil dari biggest val : 17
+forward
+end
+iterasi : 4
+=============================================================
+ level = 3
+=============================================================
+ entropy = (-(29/158)* 2Lo(29/158)) +(-(64/158)* 2Lo(64/158)) +(-(65/158)* 2Lo(65/158)) = 1.50419
+ -- 10103129--NANA SUPRIATNA--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10104200--ANDRIYANO RAFERINO BARRY P--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10104324--ASEP JAMALUDIN--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--NO
+ -- 10105002--TINTIN KRISTINA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105120--ADE JAMALUDIN--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Rendah--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105138--RUDI INDRA PUTRANTO--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105145--ANGGA GINANJAR. M--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105162--DEA DIKI HAMDAN--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--NO
+ -- 10105201--HARI SUHARIMAN--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Rendah--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105212--REDI SETIABUDI--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105242--TISNO ISWANTONO--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105244--ADE RUSMAWAN--Tinggi--Tinggi--Rendah--Sedang--Rendah--Sedang--Sedang--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105832--IAN PERMANA HIDAYAT--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105856--DAVIT SETIAWAN--Tinggi--Tinggi--Tinggi--Sedang--Rendah--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106004--HENDRA BUDIAWAN--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106010--PURWANGGA B. HERDAYANDI--Sedang--Tinggi--Sedang--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--NO
+ -- 10106029--DONIS MAULANA PUGAR--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106035--ADITYA YUDHA  PRADHANA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106036--DIMAS IRAWAN--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106048--JAKA ADI SWARA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106051--MOCHAMAD FAJAR SUADA--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Sedang--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106064--ANGGA NURMAULANA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106075--FAKHRIYYATUL  AZHAR--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106084--FAJAR NURAKHMAN--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106085--WIDA WIDYAWATI--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106086--CHANDRA NORMANSYAH PUTRA--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106093--ERIKA SUSILO--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106103--ILMANI KAMILINA--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--YES
+ -- 10106117--FAUJI RIDWAN--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106120--ADI WIBOWO--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--NO
+ -- 10106121--NOVAN ADHITYA PUTRA--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106124--FEDICCA INDRAJEVI MAULANA--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Rendah--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106137--GIANA--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--YES
+ -- 10106146--RULLY AGUSTA PRAUTAMA--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106147--NIANTI PRATIDINA DEWI--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106151--BUDI GUTAMA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106155--FERDY YUSUF DJOENJOENAN--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106157--MELIA WULAN SARI--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--NO
+ -- 10106164--ARDHANI RESWARI--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106170--SOPYAN--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106174--KRIS NUR AKBAR--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Rendah--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106184--LUTFHI GHIFARI--Tinggi--Sedang--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106188--PUPUS MUSTIKA PURI--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106190--WIWIK WIDIYASANI--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106193--YUDA PRAYOGA--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Rendah--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--YES
+ -- 10106204--DESI SURYANI--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106217--LISTYA KARTIKA SARI. T--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106243--FERDIAN BENNY UDYANA--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106274--DIDI MULYADI--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106281--RISA HERDIANA--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Rendah--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106304--ARIM WIJAYA--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--NO
+ -- 10106322--FAZLUR AKBAR--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106330--ABDUL RAHMAN--Tinggi--Sedang--Sedang--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--NO
+ -- 10106403--WARMAN SUGANDA--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106407--DEWI NURUL R--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106422--SISFIKA YANTI SILALAHI--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106444--GINANJAR--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106707--NATALINA  AGRIMAY. S--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--NO
+ -- 10107702--HENRI PRATAMA R--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10107844--DEFFI ROSDIANA SARI--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10107859--SRI NURHAYATI--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10107863--FAHRU RAMDAN--Sedang--Tinggi--Tinggi--Rendah--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Rendah--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10108973--IHSAN NURDIANSYAH--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10108987--JIMMY BUNARDI--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--NO
+ -- 10109761--MUH KHAIRUL AZAMI--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--YES
+
+ entropy = (-(45/60)* 2Lo(45/60)) +(-(15/60)* 2Lo(15/60)) = 0.8112781
+ entropy = (-(4/5)* 2Lo(4/5)) +(-(1/5)* 2Lo(1/5)) = 0.7219281
+ gains = 1.50419-((60/65.00.9230769*0.8112781) - (5/65.00.07692308*0.7219281)) =0.69978493
+ entropy = (-(39/54)* 2Lo(39/54)) +(-(15/54)* 2Lo(15/54)) = 0.8524052
+ entropy = (-(10/11)* 2Lo(10/11)) +(-(1/11)* 2Lo(1/11)) = 0.43949693
+ gains = 1.50419-((54/65.00.83076924*0.8524052) - (11/65.00.16923077*0.43949693)) =0.72166157
+ entropy = (-(27/35)* 2Lo(27/35)) +(-(8/35)* 2Lo(8/35)) = 0.77551264
+ entropy = (-(21/29)* 2Lo(21/29)) +(-(8/29)* 2Lo(8/29)) = 0.8497512
+ entropy = (-(1/1)* 2Lo(1/1)) +0.0= 0.0
+ gains = 1.50419-((35/65.00.53846157*0.77551264) - (29/65.00.44615385*0.8497512) - (1/65.00.015384615*0.0)) =0.7074865
+ entropy = (-(24/29)* 2Lo(24/29)) +(-(5/29)* 2Lo(5/29)) = 0.6631968
+ entropy = (-(24/35)* 2Lo(24/35)) +(-(11/35)* 2Lo(11/35)) = 0.8980588
+ entropy = (-(1/1)* 2Lo(1/1)) +0.0= 0.0
+ gains = 1.50419-((29/65.00.44615385*0.6631968) - (35/65.00.53846157*0.8980588) - (1/65.00.015384615*0.0)) =0.72473204
+ entropy = (-(19/24)* 2Lo(19/24)) +(-(5/24)* 2Lo(5/24)) = 0.7382848
+ entropy = (-(28/39)* 2Lo(28/39)) +(-(11/39)* 2Lo(11/39)) = 0.85823077
+ entropy = (-(2/2)* 2Lo(2/2)) +0.0= 0.0
+ gains = 1.50419-((24/65.00.36923078*0.7382848) - (39/65.00.6*0.85823077) - (2/65.00.03076923*0.0)) =0.716654
+ entropy = (-(30/38)* 2Lo(30/38)) +(-(8/38)* 2Lo(8/38)) = 0.74248755
+ entropy = (-(19/27)* 2Lo(19/27)) +(-(8/27)* 2Lo(8/27)) = 0.87671626
+ gains = 1.50419-((38/65.00.5846154*0.74248755) - (27/65.00.41538462*0.87671626)) =0.70594585
+ entropy = (-(29/37)* 2Lo(29/37)) +(-(8/37)* 2Lo(8/37)) = 0.753198
+ entropy = (-(20/28)* 2Lo(20/28)) +(-(8/28)* 2Lo(8/28)) = 0.86312056
+ gains = 1.50419-((37/65.00.5692308*0.753198) - (28/65.00.43076923*0.86312056)) =0.7036407
+ entropy = (-(43/58)* 2Lo(43/58)) +(-(15/58)* 2Lo(15/58)) = 0.8246578
+ entropy = (-(6/7)* 2Lo(6/7)) +(-(1/7)* 2Lo(1/7)) = 0.5916728
+ gains = 1.50419-((58/65.00.8923077*0.8246578) - (7/65.00.10769231*0.5916728)) =0.70462286
+ entropy = (-(7/8)* 2Lo(7/8)) +(-(1/8)* 2Lo(1/8)) = 0.54356444
+ entropy = (-(42/57)* 2Lo(42/57)) +(-(15/57)* 2Lo(15/57)) = 0.8314744
+ gains = 1.50419-((8/65.00.12307692*0.54356444) - (57/65.00.8769231*0.8314744)) =0.7081506
+ entropy = (-(42/56)* 2Lo(42/56)) +(-(14/56)* 2Lo(14/56)) = 0.8112781
+ entropy = (-(6/8)* 2Lo(6/8)) +(-(2/8)* 2Lo(2/8)) = 0.8112781
+ entropy = (-(1/1)* 2Lo(1/1)) +0.0= 0.0
+ gains = 1.50419-((56/65.00.86153847*0.8112781) - (8/65.00.12307692*0.8112781) - (1/65.00.015384615*0.0)) =0.7053931
+ entropy = (-(20/27)* 2Lo(20/27)) +(-(7/27)* 2Lo(7/27)) = 0.8256265
+ entropy = (-(29/38)* 2Lo(29/38)) +(-(9/38)* 2Lo(9/38)) = 0.78974926
+ gains = 1.50419-((27/65.00.41538462*0.8256265) - (38/65.00.5846154*0.78974926)) =0.6995379
+ entropy = (-(20/25)* 2Lo(20/25)) +(-(5/25)* 2Lo(5/25)) = 0.7219281
+ entropy = (-(26/36)* 2Lo(26/36)) +(-(10/36)* 2Lo(10/36)) = 0.8524052
+ entropy = (-(3/4)* 2Lo(3/4)) +(-(1/4)* 2Lo(1/4)) = 0.8112781
+ gains = 1.50419-((25/65.00.3846154*0.7219281) - (36/65.00.5538462*0.8524052) - (4/65.00.06153846*0.8112781)) =0.7044992
+ entropy = (-(18/24)* 2Lo(18/24)) +(-(6/24)* 2Lo(6/24)) = 0.8112781
+ entropy = (-(31/41)* 2Lo(31/41)) +(-(10/41)* 2Lo(10/41)) = 0.8014699
+ gains = 1.50419-((24/65.00.36923078*0.8112781) - (41/65.00.63076925*0.8014699)) =0.6990986
+ entropy = (-(16/20)* 2Lo(16/20)) +(-(4/20)* 2Lo(4/20)) = 0.7219281
+ entropy = (-(31/43)* 2Lo(31/43)) +(-(12/43)* 2Lo(12/43)) = 0.8541802
+ entropy = (-(2/2)* 2Lo(2/2)) +0.0= 0.0
+ gains = 1.50419-((20/65.00.30769232*0.7219281) - (43/65.00.6615385*0.8541802) - (2/65.00.03076923*0.0)) =0.71698517
+ entropy = (-(42/55)* 2Lo(42/55)) +(-(13/55)* 2Lo(13/55)) = 0.78894067
+ entropy = (-(7/10)* 2Lo(7/10)) +(-(3/10)* 2Lo(3/10)) = 0.8812909
+ gains = 1.50419-((55/65.00.84615386*0.78894067) - (10/65.00.15384616*0.8812909)) =0.7010416
+ entropy = (-(47/62)* 2Lo(47/62)) +(-(15/62)* 2Lo(15/62)) = 0.7982441
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = 1.50419-((62/65.00.95384616*0.7982441) - (3/65.00.046153847*0.91829586)) =0.700405
+--------->> gain => NILAI_1 : 0.69978493
+--------->> gain => NILAI_2 : 0.72166157
+--------->> gain => NILAI_3 : 0.7074865
+--------->> gain => NILAI_4 : 0.72473204
+--------->> gain => NILAI_5 : 0.716654
+--------->> gain => NILAI_6 : 0.70594585
+--------->> gain => NILAI_7 : 0.7036407
+--------->> gain => NILAI_8 : 0.70462286
+--------->> gain => NILAI_9 : 0.7081506
+--------->> gain => NILAI_10 : 0.7053931
+--------->> gain => NILAI_11 : 0.6995379
+--------->> gain => NILAI_12 : 0.7044992
+--------->> gain => NILAI_13 : 0.6990986
+--------->> gain => NILAI_14 : 0.71698517
+--------->> gain => NILAI_17 : 0.7010416
+--------->> gain => NILAI_18 : 0.700405
+------------>>>biggest gains : NILAI_4 with gains = 0.72473204
+hasil dari biggest val : 5
+forward
+end
+iterasi : 6
+=============================================================
+ level = 4
+=============================================================
+ entropy = (-(29/29)* 2Lo(29/29)) = -0.0
+ -- 10103129--NANA SUPRIATNA--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10104200--ANDRIYANO RAFERINO BARRY P--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10104324--ASEP JAMALUDIN--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--NO
+ -- 10105002--TINTIN KRISTINA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105145--ANGGA GINANJAR. M--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105162--DEA DIKI HAMDAN--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--NO
+ -- 10105201--HARI SUHARIMAN--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Rendah--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105212--REDI SETIABUDI--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105832--IAN PERMANA HIDAYAT--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106029--DONIS MAULANA PUGAR--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106035--ADITYA YUDHA  PRADHANA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106048--JAKA ADI SWARA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106051--MOCHAMAD FAJAR SUADA--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Sedang--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106064--ANGGA NURMAULANA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106085--WIDA WIDYAWATI--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106093--ERIKA SUSILO--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106117--FAUJI RIDWAN--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106121--NOVAN ADHITYA PUTRA--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106124--FEDICCA INDRAJEVI MAULANA--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Rendah--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106151--BUDI GUTAMA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106170--SOPYAN--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106204--DESI SURYANI--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106330--ABDUL RAHMAN--Tinggi--Sedang--Sedang--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--NO
+ -- 10106403--WARMAN SUGANDA--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106407--DEWI NURUL R--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106422--SISFIKA YANTI SILALAHI--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10107702--HENRI PRATAMA R--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10107859--SRI NURHAYATI--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10108987--JIMMY BUNARDI--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--NO
+
+ entropy = (-(22/27)* 2Lo(22/27)) +(-(5/27)* 2Lo(5/27)) = 0.69128984
+ entropy = (-(2/2)* 2Lo(2/2)) +0.0= 0.0
+ gains = -0.0-((27/29.00.9310345*0.69128984) - (2/29.00.06896552*0.0)) =-0.6436147
+ entropy = (-(19/24)* 2Lo(19/24)) +(-(5/24)* 2Lo(5/24)) = 0.7382848
+ entropy = (-(5/5)* 2Lo(5/5)) +0.0= 0.0
+ gains = -0.0-((24/29.00.82758623*0.7382848) - (5/29.00.1724138*0.0)) =-0.61099434
+ entropy = (-(10/12)* 2Lo(10/12)) +(-(2/12)* 2Lo(2/12)) = 0.65002245
+ entropy = (-(14/17)* 2Lo(14/17)) +(-(3/17)* 2Lo(3/17)) = 0.6722948
+ gains = -0.0-((12/29.00.41379312*0.65002245) - (17/29.00.5862069*0.6722948)) =-0.66307867
+ entropy = (-(6/7)* 2Lo(6/7)) +(-(1/7)* 2Lo(1/7)) = 0.5916728
+ entropy = (-(18/22)* 2Lo(18/22)) +(-(4/22)* 2Lo(4/22)) = 0.68403846
+ gains = -0.0-((7/29.00.2413793*0.5916728) - (22/29.00.7586207*0.68403846)) =-0.6617433
+ entropy = (-(11/12)* 2Lo(11/12)) +(-(1/12)* 2Lo(1/12)) = 0.41381684
+ entropy = (-(13/17)* 2Lo(13/17)) +(-(4/17)* 2Lo(4/17)) = 0.78712654
+ gains = -0.0-((12/29.00.41379312*0.41381684) - (17/29.00.5862069*0.78712654)) =-0.6326536
+ entropy = (-(15/17)* 2Lo(15/17)) +(-(2/17)* 2Lo(2/17)) = 0.52255934
+ entropy = (-(9/12)* 2Lo(9/12)) +(-(3/12)* 2Lo(3/12)) = 0.8112781
+ gains = -0.0-((17/29.00.5862069*0.52255934) - (12/29.00.41379312*0.8112781)) =-0.64202917
+ entropy = (-(20/25)* 2Lo(20/25)) +(-(5/25)* 2Lo(5/25)) = 0.7219281
+ entropy = (-(4/4)* 2Lo(4/4)) +0.0= 0.0
+ gains = -0.0-((25/29.00.86206895*0.7219281) - (4/29.00.13793103*0.0)) =-0.6223518
+ entropy = (-(4/4)* 2Lo(4/4)) +0.0= 0.0
+ entropy = (-(20/25)* 2Lo(20/25)) +(-(5/25)* 2Lo(5/25)) = 0.7219281
+ gains = -0.0-((4/29.00.13793103*0.0) - (25/29.00.86206895*0.7219281)) =-0.6223518
+ entropy = (-(22/27)* 2Lo(22/27)) +(-(5/27)* 2Lo(5/27)) = 0.69128984
+ entropy = (-(2/2)* 2Lo(2/2)) +0.0= 0.0
+ gains = -0.0-((27/29.00.9310345*0.69128984) - (2/29.00.06896552*0.0)) =-0.6436147
+ entropy = (-(13/16)* 2Lo(13/16)) +(-(3/16)* 2Lo(3/16)) = 0.6962123
+ entropy = (-(11/13)* 2Lo(11/13)) +(-(2/13)* 2Lo(2/13)) = 0.6193822
+ gains = -0.0-((16/29.00.55172414*0.6962123) - (13/29.00.44827586*0.6193822)) =-0.6617712
+ entropy = (-(15/18)* 2Lo(15/18)) +(-(3/18)* 2Lo(3/18)) = 0.65002245
+ entropy = (-(8/10)* 2Lo(8/10)) +(-(2/10)* 2Lo(2/10)) = 0.7219281
+ entropy = (-(1/1)* 2Lo(1/1)) +0.0= 0.0
+ gains = -0.0-((18/29.00.62068963*0.65002245) - (10/29.00.3448276*0.7219281) - (1/29.00.03448276*0.0)) =-0.65240294
+ entropy = (-(10/11)* 2Lo(10/11)) +(-(1/11)* 2Lo(1/11)) = 0.43949693
+ entropy = (-(14/18)* 2Lo(14/18)) +(-(4/18)* 2Lo(4/18)) = 0.7642045
+ gains = -0.0-((11/29.00.37931034*0.43949693) - (18/29.00.62068963*0.7642045)) =-0.64103955
+ entropy = (-(7/8)* 2Lo(7/8)) +(-(1/8)* 2Lo(1/8)) = 0.54356444
+ entropy = (-(16/20)* 2Lo(16/20)) +(-(4/20)* 2Lo(4/20)) = 0.7219281
+ entropy = (-(1/1)* 2Lo(1/1)) +0.0= 0.0
+ gains = -0.0-((8/29.00.27586207*0.54356444) - (20/29.00.6896552*0.7219281) - (1/29.00.03448276*0.0)) =-0.64783025
+ entropy = (-(21/26)* 2Lo(21/26)) +(-(5/26)* 2Lo(5/26)) = 0.7062741
+ entropy = (-(3/3)* 2Lo(3/3)) +0.0= 0.0
+ gains = -0.0-((26/29.00.8965517*0.7062741) - (3/29.00.10344828*0.0)) =-0.63321126
+ entropy = (-(23/28)* 2Lo(23/28)) +(-(5/28)* 2Lo(5/28)) = 0.6769419
+ entropy = (-(1/1)* 2Lo(1/1)) +0.0= 0.0
+ gains = -0.0-((28/29.00.9655172*0.6769419) - (1/29.00.03448276*0.0)) =-0.653599
+--------->> gain => NILAI_1 : -0.6436147
+--------->> gain => NILAI_2 : -0.61099434
+--------->> gain => NILAI_3 : -0.66307867
+--------->> gain => NILAI_5 : -0.6617433
+--------->> gain => NILAI_6 : -0.6326536
+--------->> gain => NILAI_7 : -0.64202917
+--------->> gain => NILAI_8 : -0.6223518
+--------->> gain => NILAI_9 : -0.6223518
+--------->> gain => NILAI_10 : -0.6436147
+--------->> gain => NILAI_11 : -0.6617712
+--------->> gain => NILAI_12 : -0.65240294
+--------->> gain => NILAI_13 : -0.64103955
+--------->> gain => NILAI_14 : -0.64783025
+--------->> gain => NILAI_17 : -0.63321126
+--------->> gain => NILAI_18 : -0.653599
+------------>>>biggest gains : NILAI_2 with gains = -0.61099434
+hasil dari biggest val : 3
+forward
+end
+iterasi : 8
+=============================================================
+ level = 5
+=============================================================
+ entropy = (-(24/24)* 2Lo(24/24)) = -0.0
+ -- 10103129--NANA SUPRIATNA--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10104200--ANDRIYANO RAFERINO BARRY P--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10104324--ASEP JAMALUDIN--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--NO
+ -- 10105002--TINTIN KRISTINA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105145--ANGGA GINANJAR. M--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105201--HARI SUHARIMAN--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Rendah--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105832--IAN PERMANA HIDAYAT--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106035--ADITYA YUDHA  PRADHANA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106048--JAKA ADI SWARA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106051--MOCHAMAD FAJAR SUADA--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Sedang--Tinggi--Sedang--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106064--ANGGA NURMAULANA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106085--WIDA WIDYAWATI--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106093--ERIKA SUSILO--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106117--FAUJI RIDWAN--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106121--NOVAN ADHITYA PUTRA--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Sedang--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106124--FEDICCA INDRAJEVI MAULANA--Sedang--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Sedang--Rendah--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106151--BUDI GUTAMA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106170--SOPYAN--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106204--DESI SURYANI--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106407--DEWI NURUL R--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106422--SISFIKA YANTI SILALAHI--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10107702--HENRI PRATAMA R--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10107859--SRI NURHAYATI--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10108987--JIMMY BUNARDI--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--NO
+
+ entropy = (-(18/23)* 2Lo(18/23)) +(-(5/23)* 2Lo(5/23)) = 0.7553754
+ entropy = (-(1/1)* 2Lo(1/1)) +0.0= 0.0
+ gains = -0.0-((23/24.00.9583333*0.7553754) - (1/24.00.041666668*0.0)) =-0.7239014
+ entropy = (-(7/9)* 2Lo(7/9)) +(-(2/9)* 2Lo(2/9)) = 0.7642045
+ entropy = (-(12/15)* 2Lo(12/15)) +(-(3/15)* 2Lo(3/15)) = 0.7219281
+ gains = -0.0-((9/24.00.375*0.7642045) - (15/24.00.625*0.7219281)) =-0.73778176
+ entropy = (-(4/5)* 2Lo(4/5)) +(-(1/5)* 2Lo(1/5)) = 0.7219281
+ entropy = (-(15/19)* 2Lo(15/19)) +(-(4/19)* 2Lo(4/19)) = 0.74248755
+ gains = -0.0-((5/24.00.20833333*0.7219281) - (19/24.00.7916667*0.74248755)) =-0.73820436
+ entropy = (-(9/10)* 2Lo(9/10)) +(-(1/10)* 2Lo(1/10)) = 0.46899563
+ entropy = (-(10/14)* 2Lo(10/14)) +(-(4/14)* 2Lo(4/14)) = 0.86312056
+ gains = -0.0-((10/24.00.41666666*0.46899563) - (14/24.00.5833333*0.86312056)) =-0.69890183
+ entropy = (-(14/16)* 2Lo(14/16)) +(-(2/16)* 2Lo(2/16)) = 0.54356444
+ entropy = (-(5/8)* 2Lo(5/8)) +(-(3/8)* 2Lo(3/8)) = 0.95443404
+ gains = -0.0-((16/24.00.6666667*0.54356444) - (8/24.00.33333334*0.95443404)) =-0.680521
+ entropy = (-(18/23)* 2Lo(18/23)) +(-(5/23)* 2Lo(5/23)) = 0.7553754
+ entropy = (-(1/1)* 2Lo(1/1)) +0.0= 0.0
+ gains = -0.0-((23/24.00.9583333*0.7553754) - (1/24.00.041666668*0.0)) =-0.7239014
+ entropy = (-(3/3)* 2Lo(3/3)) +0.0= 0.0
+ entropy = (-(16/21)* 2Lo(16/21)) +(-(5/21)* 2Lo(5/21)) = 0.7918583
+ gains = -0.0-((3/24.00.125*0.0) - (21/24.00.875*0.7918583)) =-0.69287604
+ entropy = (-(18/23)* 2Lo(18/23)) +(-(5/23)* 2Lo(5/23)) = 0.7553754
+ entropy = (-(1/1)* 2Lo(1/1)) +0.0= 0.0
+ gains = -0.0-((23/24.00.9583333*0.7553754) - (1/24.00.041666668*0.0)) =-0.7239014
+ entropy = (-(11/14)* 2Lo(11/14)) +(-(3/14)* 2Lo(3/14)) = 0.7495953
+ entropy = (-(8/10)* 2Lo(8/10)) +(-(2/10)* 2Lo(2/10)) = 0.7219281
+ gains = -0.0-((14/24.00.5833333*0.7495953) - (10/24.00.41666666*0.7219281)) =-0.73806727
+ entropy = (-(14/17)* 2Lo(14/17)) +(-(3/17)* 2Lo(3/17)) = 0.6722948
+ entropy = (-(4/6)* 2Lo(4/6)) +(-(2/6)* 2Lo(2/6)) = 0.91829586
+ entropy = (-(1/1)* 2Lo(1/1)) +0.0= 0.0
+ gains = -0.0-((17/24.00.7083333*0.6722948) - (6/24.00.25*0.91829586) - (1/24.00.041666668*0.0)) =-0.7057828
+ entropy = (-(8/9)* 2Lo(8/9)) +(-(1/9)* 2Lo(1/9)) = 0.50325835
+ entropy = (-(11/15)* 2Lo(11/15)) +(-(4/15)* 2Lo(4/15)) = 0.8366407
+ gains = -0.0-((9/24.00.375*0.50325835) - (15/24.00.625*0.8366407)) =-0.71162236
+ entropy = (-(5/6)* 2Lo(5/6)) +(-(1/6)* 2Lo(1/6)) = 0.65002245
+ entropy = (-(13/17)* 2Lo(13/17)) +(-(4/17)* 2Lo(4/17)) = 0.78712654
+ entropy = (-(1/1)* 2Lo(1/1)) +0.0= 0.0
+ gains = -0.0-((6/24.00.25*0.65002245) - (17/24.00.7083333*0.78712654) - (1/24.00.041666668*0.0)) =-0.72005355
+ entropy = (-(18/23)* 2Lo(18/23)) +(-(5/23)* 2Lo(5/23)) = 0.7553754
+ entropy = (-(1/1)* 2Lo(1/1)) +0.0= 0.0
+ gains = -0.0-((23/24.00.9583333*0.7553754) - (1/24.00.041666668*0.0)) =-0.7239014
+ entropy = (-(18/23)* 2Lo(18/23)) +(-(5/23)* 2Lo(5/23)) = 0.7553754
+ entropy = (-(1/1)* 2Lo(1/1)) +0.0= 0.0
+ gains = -0.0-((23/24.00.9583333*0.7553754) - (1/24.00.041666668*0.0)) =-0.7239014
+--------->> gain => NILAI_1 : -0.7239014
+--------->> gain => NILAI_3 : -0.73778176
+--------->> gain => NILAI_5 : -0.73820436
+--------->> gain => NILAI_6 : -0.69890183
+--------->> gain => NILAI_7 : -0.680521
+--------->> gain => NILAI_8 : -0.7239014
+--------->> gain => NILAI_9 : -0.69287604
+--------->> gain => NILAI_10 : -0.7239014
+--------->> gain => NILAI_11 : -0.73806727
+--------->> gain => NILAI_12 : -0.7057828
+--------->> gain => NILAI_13 : -0.71162236
+--------->> gain => NILAI_14 : -0.72005355
+--------->> gain => NILAI_17 : -0.7239014
+--------->> gain => NILAI_18 : -0.7239014
+------------>>>biggest gains : NILAI_7 with gains = -0.680521
+hasil dari biggest val : 8
+forward
+end
+iterasi : 10
+=============================================================
+ level = 6
+=============================================================
+ entropy = (-(16/16)* 2Lo(16/16)) = -0.0
+ -- 10103129--NANA SUPRIATNA--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10104200--ANDRIYANO RAFERINO BARRY P--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10104324--ASEP JAMALUDIN--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Sedang--Sedang--Sedang--Tinggi--Tinggi--Sedang--Tinggi--NO
+ -- 10105002--TINTIN KRISTINA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105145--ANGGA GINANJAR. M--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105201--HARI SUHARIMAN--Tinggi--Tinggi--Sedang--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Rendah--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106035--ADITYA YUDHA  PRADHANA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106048--JAKA ADI SWARA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106064--ANGGA NURMAULANA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106085--WIDA WIDYAWATI--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106151--BUDI GUTAMA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106170--SOPYAN--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106204--DESI SURYANI--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106422--SISFIKA YANTI SILALAHI--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10107859--SRI NURHAYATI--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10108987--JIMMY BUNARDI--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--NO
+
+ entropy = (-(14/16)* 2Lo(14/16)) +(-(2/16)* 2Lo(2/16)) = 0.54356444
+ gains = -0.0-((16/16.01.0*0.54356444)) =-0.54356444
+ entropy = (-(4/4)* 2Lo(4/4)) +0.0= 0.0
+ entropy = (-(10/12)* 2Lo(10/12)) +(-(2/12)* 2Lo(2/12)) = 0.65002245
+ gains = -0.0-((4/16.00.25*0.0) - (12/16.00.75*0.65002245)) =-0.48751682
+ entropy = (-(2/2)* 2Lo(2/2)) +0.0= 0.0
+ entropy = (-(12/14)* 2Lo(12/14)) +(-(2/14)* 2Lo(2/14)) = 0.5916728
+ gains = -0.0-((2/16.00.125*0.0) - (14/16.00.875*0.5916728)) =-0.51771367
+ entropy = (-(6/6)* 2Lo(6/6)) +0.0= 0.0
+ entropy = (-(8/10)* 2Lo(8/10)) +(-(2/10)* 2Lo(2/10)) = 0.7219281
+ gains = -0.0-((6/16.00.375*0.0) - (10/16.00.625*0.7219281)) =-0.45120507
+ entropy = (-(14/16)* 2Lo(14/16)) +(-(2/16)* 2Lo(2/16)) = 0.54356444
+ gains = -0.0-((16/16.01.0*0.54356444)) =-0.54356444
+ entropy = (-(2/2)* 2Lo(2/2)) +0.0= 0.0
+ entropy = (-(12/14)* 2Lo(12/14)) +(-(2/14)* 2Lo(2/14)) = 0.5916728
+ gains = -0.0-((2/16.00.125*0.0) - (14/16.00.875*0.5916728)) =-0.51771367
+ entropy = (-(14/16)* 2Lo(14/16)) +(-(2/16)* 2Lo(2/16)) = 0.54356444
+ gains = -0.0-((16/16.01.0*0.54356444)) =-0.54356444
+ entropy = (-(10/12)* 2Lo(10/12)) +(-(2/12)* 2Lo(2/12)) = 0.65002245
+ entropy = (-(4/4)* 2Lo(4/4)) +0.0= 0.0
+ gains = -0.0-((12/16.00.75*0.65002245) - (4/16.00.25*0.0)) =-0.48751682
+ entropy = (-(11/13)* 2Lo(11/13)) +(-(2/13)* 2Lo(2/13)) = 0.6193822
+ entropy = (-(2/2)* 2Lo(2/2)) +0.0= 0.0
+ entropy = (-(1/1)* 2Lo(1/1)) +0.0= 0.0
+ gains = -0.0-((13/16.00.8125*0.6193822) - (2/16.00.125*0.0) - (1/16.00.0625*0.0)) =-0.50324804
+ entropy = (-(4/5)* 2Lo(4/5)) +(-(1/5)* 2Lo(1/5)) = 0.7219281
+ entropy = (-(10/11)* 2Lo(10/11)) +(-(1/11)* 2Lo(1/11)) = 0.43949693
+ gains = -0.0-((5/16.00.3125*0.7219281) - (11/16.00.6875*0.43949693)) =-0.5277567
+ entropy = (-(4/4)* 2Lo(4/4)) +0.0= 0.0
+ entropy = (-(10/12)* 2Lo(10/12)) +(-(2/12)* 2Lo(2/12)) = 0.65002245
+ gains = -0.0-((4/16.00.25*0.0) - (12/16.00.75*0.65002245)) =-0.48751682
+ entropy = (-(13/15)* 2Lo(13/15)) +(-(2/15)* 2Lo(2/15)) = 0.5665095
+ entropy = (-(1/1)* 2Lo(1/1)) +0.0= 0.0
+ gains = -0.0-((15/16.00.9375*0.5665095) - (1/16.00.0625*0.0)) =-0.53110266
+ entropy = (-(13/15)* 2Lo(13/15)) +(-(2/15)* 2Lo(2/15)) = 0.5665095
+ entropy = (-(1/1)* 2Lo(1/1)) +0.0= 0.0
+ gains = -0.0-((15/16.00.9375*0.5665095) - (1/16.00.0625*0.0)) =-0.53110266
+--------->> gain => NILAI_1 : -0.54356444
+--------->> gain => NILAI_3 : -0.48751682
+--------->> gain => NILAI_5 : -0.51771367
+--------->> gain => NILAI_6 : -0.45120507
+--------->> gain => NILAI_8 : -0.54356444
+--------->> gain => NILAI_9 : -0.51771367
+--------->> gain => NILAI_10 : -0.54356444
+--------->> gain => NILAI_11 : -0.48751682
+--------->> gain => NILAI_12 : -0.50324804
+--------->> gain => NILAI_13 : -0.5277567
+--------->> gain => NILAI_14 : -0.48751682
+--------->> gain => NILAI_17 : -0.53110266
+--------->> gain => NILAI_18 : -0.53110266
+------------>>>biggest gains : NILAI_6 with gains = -0.45120507
+hasil dari biggest val : 7
+next
+forward
+end
+iterasi : 12
+=============================================================
+ level = 7
+=============================================================
+ entropy = (-(10/10)* 2Lo(10/10)) = -0.0
+ -- 10104200--ANDRIYANO RAFERINO BARRY P--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105002--TINTIN KRISTINA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105145--ANGGA GINANJAR. M--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106035--ADITYA YUDHA  PRADHANA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106048--JAKA ADI SWARA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106064--ANGGA NURMAULANA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106085--WIDA WIDYAWATI--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106170--SOPYAN--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106422--SISFIKA YANTI SILALAHI--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10108987--JIMMY BUNARDI--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--NO
+
+ entropy = (-(8/10)* 2Lo(8/10)) +(-(2/10)* 2Lo(2/10)) = 0.7219281
+ gains = -0.0-((10/10.01.0*0.7219281)) =-0.7219281
+ entropy = (-(7/9)* 2Lo(7/9)) +(-(2/9)* 2Lo(2/9)) = 0.7642045
+ entropy = (-(1/1)* 2Lo(1/1)) +0.0= 0.0
+ gains = -0.0-((9/10.00.9*0.7642045) - (1/10.00.1*0.0)) =-0.687784
+ entropy = (-(8/10)* 2Lo(8/10)) +(-(2/10)* 2Lo(2/10)) = 0.7219281
+ gains = -0.0-((10/10.01.0*0.7219281)) =-0.7219281
+ entropy = (-(8/10)* 2Lo(8/10)) +(-(2/10)* 2Lo(2/10)) = 0.7219281
+ gains = -0.0-((10/10.01.0*0.7219281)) =-0.7219281
+ entropy = (-(8/10)* 2Lo(8/10)) +(-(2/10)* 2Lo(2/10)) = 0.7219281
+ gains = -0.0-((10/10.01.0*0.7219281)) =-0.7219281
+ entropy = (-(8/10)* 2Lo(8/10)) +(-(2/10)* 2Lo(2/10)) = 0.7219281
+ gains = -0.0-((10/10.01.0*0.7219281)) =-0.7219281
+ entropy = (-(4/4)* 2Lo(4/4)) +0.0= 0.0
+ entropy = (-(4/6)* 2Lo(4/6)) +(-(2/6)* 2Lo(2/6)) = 0.91829586
+ gains = -0.0-((4/10.00.4*0.0) - (6/10.00.6*0.91829586)) =-0.5509775
+ entropy = (-(7/9)* 2Lo(7/9)) +(-(2/9)* 2Lo(2/9)) = 0.7642045
+ entropy = (-(1/1)* 2Lo(1/1)) +0.0= 0.0
+ gains = -0.0-((9/10.00.9*0.7642045) - (1/10.00.1*0.0)) =-0.687784
+ entropy = (-(7/8)* 2Lo(7/8)) +(-(1/8)* 2Lo(1/8)) = 0.54356444
+ entropy = (-(1/2)* 2Lo(1/2)) +(-(1/2)* 2Lo(1/2)) = 1.0
+ gains = -0.0-((8/10.00.8*0.54356444) - (2/10.00.2*1.0)) =-0.6348516
+ entropy = (-(7/9)* 2Lo(7/9)) +(-(2/9)* 2Lo(2/9)) = 0.7642045
+ entropy = (-(1/1)* 2Lo(1/1)) +0.0= 0.0
+ gains = -0.0-((9/10.00.9*0.7642045) - (1/10.00.1*0.0)) =-0.687784
+ entropy = (-(8/10)* 2Lo(8/10)) +(-(2/10)* 2Lo(2/10)) = 0.7219281
+ gains = -0.0-((10/10.01.0*0.7219281)) =-0.7219281
+ entropy = (-(7/9)* 2Lo(7/9)) +(-(2/9)* 2Lo(2/9)) = 0.7642045
+ entropy = (-(1/1)* 2Lo(1/1)) +0.0= 0.0
+ gains = -0.0-((9/10.00.9*0.7642045) - (1/10.00.1*0.0)) =-0.687784
+--------->> gain => NILAI_1 : -0.7219281
+--------->> gain => NILAI_3 : -0.687784
+--------->> gain => NILAI_5 : -0.7219281
+--------->> gain => NILAI_8 : -0.7219281
+--------->> gain => NILAI_9 : -0.7219281
+--------->> gain => NILAI_10 : -0.7219281
+--------->> gain => NILAI_11 : -0.5509775
+--------->> gain => NILAI_12 : -0.687784
+--------->> gain => NILAI_13 : -0.6348516
+--------->> gain => NILAI_14 : -0.687784
+--------->> gain => NILAI_17 : -0.7219281
+--------->> gain => NILAI_18 : -0.687784
+------------>>>biggest gains : NILAI_11 with gains = -0.5509775
+hasil dari biggest val : 12
+next
+forward
+end
+iterasi : 14
+=============================================================
+ level = 8
+=============================================================
+ entropy = (-(6/6)* 2Lo(6/6)) = -0.0
+ -- 10105002--TINTIN KRISTINA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10105145--ANGGA GINANJAR. M--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106048--JAKA ADI SWARA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106064--ANGGA NURMAULANA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106170--SOPYAN--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10108987--JIMMY BUNARDI--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--NO
+
+ entropy = (-(4/6)* 2Lo(4/6)) +(-(2/6)* 2Lo(2/6)) = 0.91829586
+ gains = -0.0-((6/6.01.0*0.91829586)) =-0.91829586
+ entropy = (-(4/6)* 2Lo(4/6)) +(-(2/6)* 2Lo(2/6)) = 0.91829586
+ gains = -0.0-((6/6.01.0*0.91829586)) =-0.91829586
+ entropy = (-(4/6)* 2Lo(4/6)) +(-(2/6)* 2Lo(2/6)) = 0.91829586
+ gains = -0.0-((6/6.01.0*0.91829586)) =-0.91829586
+ entropy = (-(4/6)* 2Lo(4/6)) +(-(2/6)* 2Lo(2/6)) = 0.91829586
+ gains = -0.0-((6/6.01.0*0.91829586)) =-0.91829586
+ entropy = (-(4/6)* 2Lo(4/6)) +(-(2/6)* 2Lo(2/6)) = 0.91829586
+ gains = -0.0-((6/6.01.0*0.91829586)) =-0.91829586
+ entropy = (-(4/6)* 2Lo(4/6)) +(-(2/6)* 2Lo(2/6)) = 0.91829586
+ gains = -0.0-((6/6.01.0*0.91829586)) =-0.91829586
+ entropy = (-(3/5)* 2Lo(3/5)) +(-(2/5)* 2Lo(2/5)) = 0.9709506
+ entropy = (-(1/1)* 2Lo(1/1)) +0.0= 0.0
+ gains = -0.0-((5/6.00.8333333*0.9709506) - (1/6.00.16666667*0.0)) =-0.8091255
+ entropy = (-(3/4)* 2Lo(3/4)) +(-(1/4)* 2Lo(1/4)) = 0.8112781
+ entropy = (-(1/2)* 2Lo(1/2)) +(-(1/2)* 2Lo(1/2)) = 1.0
+ gains = -0.0-((4/6.00.6666667*0.8112781) - (2/6.00.33333334*1.0)) =-0.87418544
+ entropy = (-(3/5)* 2Lo(3/5)) +(-(2/5)* 2Lo(2/5)) = 0.9709506
+ entropy = (-(1/1)* 2Lo(1/1)) +0.0= 0.0
+ gains = -0.0-((5/6.00.8333333*0.9709506) - (1/6.00.16666667*0.0)) =-0.8091255
+ entropy = (-(4/6)* 2Lo(4/6)) +(-(2/6)* 2Lo(2/6)) = 0.91829586
+ gains = -0.0-((6/6.01.0*0.91829586)) =-0.91829586
+ entropy = (-(3/5)* 2Lo(3/5)) +(-(2/5)* 2Lo(2/5)) = 0.9709506
+ entropy = (-(1/1)* 2Lo(1/1)) +0.0= 0.0
+ gains = -0.0-((5/6.00.8333333*0.9709506) - (1/6.00.16666667*0.0)) =-0.8091255
+--------->> gain => NILAI_1 : -0.91829586
+--------->> gain => NILAI_3 : -0.91829586
+--------->> gain => NILAI_5 : -0.91829586
+--------->> gain => NILAI_8 : -0.91829586
+--------->> gain => NILAI_9 : -0.91829586
+--------->> gain => NILAI_10 : -0.91829586
+--------->> gain => NILAI_12 : -0.8091255
+--------->> gain => NILAI_13 : -0.87418544
+--------->> gain => NILAI_14 : -0.8091255
+--------->> gain => NILAI_17 : -0.91829586
+--------->> gain => NILAI_18 : -0.8091255
+------------>>>biggest gains : NILAI_12 with gains = -0.8091255
+hasil dari biggest val : 13
+forward
+end
+iterasi : 16
+=============================================================
+ level = 9
+=============================================================
+ entropy = (-(5/5)* 2Lo(5/5)) = -0.0
+ -- 10105002--TINTIN KRISTINA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106048--JAKA ADI SWARA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106064--ANGGA NURMAULANA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106170--SOPYAN--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10108987--JIMMY BUNARDI--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Sedang--Tinggi--Tinggi--Tinggi--Sedang--NO
+
+ entropy = (-(3/5)* 2Lo(3/5)) +(-(2/5)* 2Lo(2/5)) = 0.9709506
+ gains = -0.0-((5/5.01.0*0.9709506)) =-0.9709506
+ entropy = (-(3/5)* 2Lo(3/5)) +(-(2/5)* 2Lo(2/5)) = 0.9709506
+ gains = -0.0-((5/5.01.0*0.9709506)) =-0.9709506
+ entropy = (-(3/5)* 2Lo(3/5)) +(-(2/5)* 2Lo(2/5)) = 0.9709506
+ gains = -0.0-((5/5.01.0*0.9709506)) =-0.9709506
+ entropy = (-(3/5)* 2Lo(3/5)) +(-(2/5)* 2Lo(2/5)) = 0.9709506
+ gains = -0.0-((5/5.01.0*0.9709506)) =-0.9709506
+ entropy = (-(3/5)* 2Lo(3/5)) +(-(2/5)* 2Lo(2/5)) = 0.9709506
+ gains = -0.0-((5/5.01.0*0.9709506)) =-0.9709506
+ entropy = (-(3/5)* 2Lo(3/5)) +(-(2/5)* 2Lo(2/5)) = 0.9709506
+ gains = -0.0-((5/5.01.0*0.9709506)) =-0.9709506
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ entropy = (-(1/2)* 2Lo(1/2)) +(-(1/2)* 2Lo(1/2)) = 1.0
+ gains = -0.0-((3/5.00.6*0.91829586) - (2/5.00.4*1.0)) =-0.95097756
+ entropy = (-(2/4)* 2Lo(2/4)) +(-(2/4)* 2Lo(2/4)) = 1.0
+ entropy = (-(1/1)* 2Lo(1/1)) +0.0= 0.0
+ gains = -0.0-((4/5.00.8*1.0) - (1/5.00.2*0.0)) =-0.8
+ entropy = (-(3/5)* 2Lo(3/5)) +(-(2/5)* 2Lo(2/5)) = 0.9709506
+ gains = -0.0-((5/5.01.0*0.9709506)) =-0.9709506
+ entropy = (-(2/4)* 2Lo(2/4)) +(-(2/4)* 2Lo(2/4)) = 1.0
+ entropy = (-(1/1)* 2Lo(1/1)) +0.0= 0.0
+ gains = -0.0-((4/5.00.8*1.0) - (1/5.00.2*0.0)) =-0.8
+--------->> gain => NILAI_1 : -0.9709506
+--------->> gain => NILAI_3 : -0.9709506
+--------->> gain => NILAI_5 : -0.9709506
+--------->> gain => NILAI_8 : -0.9709506
+--------->> gain => NILAI_9 : -0.9709506
+--------->> gain => NILAI_10 : -0.9709506
+--------->> gain => NILAI_13 : -0.95097756
+--------->> gain => NILAI_14 : -0.8
+--------->> gain => NILAI_17 : -0.9709506
+--------->> gain => NILAI_18 : -0.8
+------------>>>biggest gains : NILAI_14 with gains = -0.8
+hasil dari biggest val : 15
+forward
+end
+iterasi : 18
+=============================================================
+ level = 10
+=============================================================
+ entropy = (-(4/4)* 2Lo(4/4)) = -0.0
+ -- 10105002--TINTIN KRISTINA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106048--JAKA ADI SWARA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106064--ANGGA NURMAULANA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+ -- 10106170--SOPYAN--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Sedang--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+
+ entropy = (-(2/4)* 2Lo(2/4)) +(-(2/4)* 2Lo(2/4)) = 1.0
+ gains = -0.0-((4/4.01.0*1.0)) =-1.0
+ entropy = (-(2/4)* 2Lo(2/4)) +(-(2/4)* 2Lo(2/4)) = 1.0
+ gains = -0.0-((4/4.01.0*1.0)) =-1.0
+ entropy = (-(2/4)* 2Lo(2/4)) +(-(2/4)* 2Lo(2/4)) = 1.0
+ gains = -0.0-((4/4.01.0*1.0)) =-1.0
+ entropy = (-(2/4)* 2Lo(2/4)) +(-(2/4)* 2Lo(2/4)) = 1.0
+ gains = -0.0-((4/4.01.0*1.0)) =-1.0
+ entropy = (-(2/4)* 2Lo(2/4)) +(-(2/4)* 2Lo(2/4)) = 1.0
+ gains = -0.0-((4/4.01.0*1.0)) =-1.0
+ entropy = (-(2/4)* 2Lo(2/4)) +(-(2/4)* 2Lo(2/4)) = 1.0
+ gains = -0.0-((4/4.01.0*1.0)) =-1.0
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ entropy = 0.0+(-(1/1)* 2Lo(1/1)) = 0.0
+ gains = -0.0-((3/4.00.75*0.91829586) - (1/4.00.25*0.0)) =-0.6887219
+ entropy = (-(2/4)* 2Lo(2/4)) +(-(2/4)* 2Lo(2/4)) = 1.0
+ gains = -0.0-((4/4.01.0*1.0)) =-1.0
+ entropy = (-(2/4)* 2Lo(2/4)) +(-(2/4)* 2Lo(2/4)) = 1.0
+ gains = -0.0-((4/4.01.0*1.0)) =-1.0
+--------->> gain => NILAI_1 : -1.0
+--------->> gain => NILAI_3 : -1.0
+--------->> gain => NILAI_5 : -1.0
+--------->> gain => NILAI_8 : -1.0
+--------->> gain => NILAI_9 : -1.0
+--------->> gain => NILAI_10 : -1.0
+--------->> gain => NILAI_13 : -0.6887219
+--------->> gain => NILAI_17 : -1.0
+--------->> gain => NILAI_18 : -1.0
+------------>>>biggest gains : NILAI_13 with gains = -0.6887219
+hasil dari biggest val : 14
+forward
+end
+iterasi : 20
+=============================================================
+ level = 11
+=============================================================
+ entropy = (-(3/3)* 2Lo(3/3)) = -0.0
+ -- 10105002--TINTIN KRISTINA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106048--JAKA ADI SWARA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106064--ANGGA NURMAULANA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+--------->> gain => NILAI_1 : -0.91829586
+--------->> gain => NILAI_3 : -0.91829586
+--------->> gain => NILAI_5 : -0.91829586
+--------->> gain => NILAI_8 : -0.91829586
+--------->> gain => NILAI_9 : -0.91829586
+--------->> gain => NILAI_10 : -0.91829586
+--------->> gain => NILAI_17 : -0.91829586
+--------->> gain => NILAI_18 : -0.91829586
+------------>>>biggest gains : NILAI_1 with gains = -0.91829586
+hasil dari biggest val : 2
+forward
+end
+iterasi : 22
+=============================================================
+ level = 12
+=============================================================
+ entropy = (-(3/3)* 2Lo(3/3)) = -0.0
+ -- 10105002--TINTIN KRISTINA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106048--JAKA ADI SWARA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106064--ANGGA NURMAULANA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+--------->> gain => NILAI_3 : -0.91829586
+--------->> gain => NILAI_5 : -0.91829586
+--------->> gain => NILAI_8 : -0.91829586
+--------->> gain => NILAI_9 : -0.91829586
+--------->> gain => NILAI_10 : -0.91829586
+--------->> gain => NILAI_17 : -0.91829586
+--------->> gain => NILAI_18 : -0.91829586
+------------>>>biggest gains : NILAI_3 with gains = -0.91829586
+hasil dari biggest val : 4
+forward
+end
+iterasi : 24
+=============================================================
+ level = 13
+=============================================================
+ entropy = (-(3/3)* 2Lo(3/3)) = -0.0
+ -- 10105002--TINTIN KRISTINA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106048--JAKA ADI SWARA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106064--ANGGA NURMAULANA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+--------->> gain => NILAI_5 : -0.91829586
+--------->> gain => NILAI_8 : -0.91829586
+--------->> gain => NILAI_9 : -0.91829586
+--------->> gain => NILAI_10 : -0.91829586
+--------->> gain => NILAI_17 : -0.91829586
+--------->> gain => NILAI_18 : -0.91829586
+------------>>>biggest gains : NILAI_5 with gains = -0.91829586
+hasil dari biggest val : 6
+forward
+end
+iterasi : 26
+=============================================================
+ level = 14
+=============================================================
+ entropy = (-(3/3)* 2Lo(3/3)) = -0.0
+ -- 10105002--TINTIN KRISTINA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106048--JAKA ADI SWARA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106064--ANGGA NURMAULANA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+--------->> gain => NILAI_8 : -0.91829586
+--------->> gain => NILAI_9 : -0.91829586
+--------->> gain => NILAI_10 : -0.91829586
+--------->> gain => NILAI_17 : -0.91829586
+--------->> gain => NILAI_18 : -0.91829586
+------------>>>biggest gains : NILAI_8 with gains = -0.91829586
+hasil dari biggest val : 9
+forward
+end
+iterasi : 28
+=============================================================
+ level = 15
+=============================================================
+ entropy = (-(3/3)* 2Lo(3/3)) = -0.0
+ -- 10105002--TINTIN KRISTINA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106048--JAKA ADI SWARA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106064--ANGGA NURMAULANA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+--------->> gain => NILAI_9 : -0.91829586
+--------->> gain => NILAI_10 : -0.91829586
+--------->> gain => NILAI_17 : -0.91829586
+--------->> gain => NILAI_18 : -0.91829586
+------------>>>biggest gains : NILAI_9 with gains = -0.91829586
+hasil dari biggest val : 10
+forward
+end
+iterasi : 30
+=============================================================
+ level = 16
+=============================================================
+ entropy = (-(3/3)* 2Lo(3/3)) = -0.0
+ -- 10105002--TINTIN KRISTINA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106048--JAKA ADI SWARA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106064--ANGGA NURMAULANA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+--------->> gain => NILAI_10 : -0.91829586
+--------->> gain => NILAI_17 : -0.91829586
+--------->> gain => NILAI_18 : -0.91829586
+------------>>>biggest gains : NILAI_10 with gains = -0.91829586
+hasil dari biggest val : 11
+forward
+end
+iterasi : 32
+=============================================================
+ level = 17
+=============================================================
+ entropy = (-(3/3)* 2Lo(3/3)) = -0.0
+ -- 10105002--TINTIN KRISTINA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106048--JAKA ADI SWARA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106064--ANGGA NURMAULANA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+--------->> gain => NILAI_17 : -0.91829586
+--------->> gain => NILAI_18 : -0.91829586
+------------>>>biggest gains : NILAI_17 with gains = -0.91829586
+hasil dari biggest val : 18
+forward
+end
+iterasi : 34
+=============================================================
+ level = 18
+=============================================================
+ entropy = (-(3/3)* 2Lo(3/3)) = -0.0
+ -- 10105002--TINTIN KRISTINA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106048--JAKA ADI SWARA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106064--ANGGA NURMAULANA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+
+ entropy = (-(2/3)* 2Lo(2/3)) +(-(1/3)* 2Lo(1/3)) = 0.91829586
+ gains = -0.0-((3/3.01.0*0.91829586)) =-0.91829586
+--------->> gain => NILAI_18 : -0.91829586
+------------>>>biggest gains : NILAI_18 with gains = -0.91829586
+hasil dari biggest val : 19
+forward
+end
+iterasi : 36
+=============================================================
+ level = 19
+=============================================================
+ entropy = (-(3/3)* 2Lo(3/3)) = -0.0
+ -- 10105002--TINTIN KRISTINA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106048--JAKA ADI SWARA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--NO
+ -- 10106064--ANGGA NURMAULANA--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--Tinggi--YES
+
+------------>>>biggest gains : NAMA with gains = null
+hasil dari biggest val : 0

@@ -4,6 +4,7 @@
  */
 package com.learning.dataajar.entities;
 
+import com.learning.dataajar.services.InputFileService;
 import java.util.List;
 
 /**
@@ -97,5 +98,6 @@ public class GainsEntity {
 
         gains = temp;
         System.out.println(hitung);
+        InputFileService.getList().add(hitung+"\n");
     }
 }
